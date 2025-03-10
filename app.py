@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # 📌 Kullanıcı giriş bilgileri
-VALID_USERNAME = "solverarge"
-VALID_PASSWORD = "Reehsu256547"
+VALID_USERNAME = "sonuc"
+VALID_PASSWORD = "1234"
 
 # 🔑 Kullanıcı giriş ekranı
 st.title("🔐 Giriş Yap")
